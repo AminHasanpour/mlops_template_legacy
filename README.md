@@ -2,6 +2,10 @@
 
 ---
 
+NOTE: This repository is now archived and will not receive any updates. Please check out the new template at [DeepTemplate](https://github.com/AminHasanpour/DeepTemplate).
+
+---
+
 Taken from [MLOps template](https://github.com/SkafteNicki/mlops_template). This template has been updated 
 to better fit deep learning projects and contain more features out of the box.
 
